@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Rihla , Mercass, GezGöz**
 
-- 🌱 I’m currently learning **Microservices architecture, Redis, RabbitMQ, gRPC, advanced MongoDB features, and improving my English. Also expanding my backend development skills with , PostgreSQL, and Entity Framework.**
+🌱 I’m currently learning Microservices architecture, gRPC, and advanced MongoDB features while improving my English communication skills. I’m also expanding my backend development expertise with ASP.NET Core, C#, Entity Framework Core, MSSQL, and PostgreSQL, and exploring Node.js and modern API development practices to strengthen my full-stack capabilities.
 
 - 👯 I’m looking to collaborate on **Open-source .NET projects focused on public services IoT-based emergency solutions AI-powered facial recognition systems Social impact tech projects using Node.js and MongoDB Innovative healthcare apps**
 
