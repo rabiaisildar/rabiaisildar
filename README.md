@@ -1,40 +1,96 @@
-<h1 align="center">Hi 👋, I'm Rabia</h1>
-<h3 align="center">A passionate software developer and tech enthusiast from Turkey.</h3>
+<h1 align="center">Hi 👋, I'm Rabia Işıldar</h1>
+<h3 align="center">Fullstack Developer & Technical Business Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiaisildar&label=Profile%20views&color=0e75b6&style=flat" alt="rabiaisildar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiaisildar" alt="rabiaisildar" /></a> </p>
-
-- 🔭 I’m currently working on **Rihla , Mercass, GezGöz**
-
-🌱 I’m currently learning Microservices architecture, gRPC, and advanced MongoDB features while improving my English communication skills. I’m also expanding my backend development expertise with ASP.NET Core, C#, Entity Framework Core, MSSQL, and PostgreSQL, and exploring Node.js and modern API development practices to strengthen my full-stack capabilities.
-
-- 👯 I’m looking to collaborate on **Open-source .NET projects focused on public services IoT-based emergency solutions AI-powered facial recognition systems Social impact tech projects using Node.js and MongoDB Innovative healthcare apps**
-
-- 🤝 I’m looking for help with **Indoor positioning technologies, real-time notification systems, and scalable MongoDB architectures.**
-
-- 📝 I regularly write articles on [@rabiaisildar65](@rabiaisildar65)
-
-- 💬 Ask me about **FS documentation, software testing processes, Frontend development, .NET Core, MSSQL, and C#.**
-
-- 📫 How to reach me **rabiaisildar00@gmail.com**
-
-- 📄 Know about my experiences [(https://www.linkedin.com/in/rabiaisildar]((https://www.linkedin.com/in/rabiaisildar)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rabia-i%c5%9fildar-416708245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rabia-i%c5%9fildar-416708245/" height="30" width="40" /></a>
-<a href="https://medium.com/@rabiaisildar65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rabiaisildar65" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rabiaisildar&label=Profile%20views&color=0e75b6&style=flat" alt="rabiaisildar" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rabiaisildar&theme=radical" alt="rabiaisildar" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiaisildar&show_icons=true&locale=en&layout=compact" alt="rabiaisildar" /></p>
+### 🌟 Hakkımda (About Me)
+Ben, iş ihtiyaçlarını derinlemesine analiz ederek teknik gereksinimlere dönüştüren ve bu çözümleri güçlü backend ve frontend mimarileriyle hayata geçiren hibrit bir **Fullstack Developer** ve **Teknik İş Analistiyim**. Projelerde gereksinim analizinden canlıya çıkış (deployment) süreçlerine kadar uçtan uca (SDLC) aktif rol alıyorum.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiaisildar&" alt="rabiaisildar" /></p>
+- 🔭 **Şu an ne yapıyorum:** AcademyCodeHub bünyesinde hem mikroservis mimarileri geliştiriyor hem de projelerin teknik analiz süreçlerini yönetiyorum.
+- 🚀 **Çift Rol (Dual Persona):** İş kurallarını kurgulayıp FS & UML dökümanlarını hazırlarken, aynı zamanda Node.js, .NET Core ve SQL ile bu çözümleri inşa ediyorum.
+- 🌱 **Kendimi Geliştirdiğim Alanlar:** Microservices mimarisi, gRPC, ileri seviye MongoDB optimizasyonları ve yapay zeka destekli üretkenlik sistemleri.
+- 🎓 **Eğitim:** Van Yüzüncü Yıl Üniversitesi - Bilgisayar Programcılığı **(Bölüm Birincisi, GNO: 3.40/4.00)**.
 
+---
+
+### 🛠️ Uzmanlık Alanları & Yetenek Seti (Skills & Expertise)
+
+| 📊 Teknik İş Analizi (Technical BA) | 💻 Yazılım Geliştirme (Fullstack) |
+| :--- | :--- |
+| **Gereksinim Yönetimi:** Requirements Elicitation, FS Documentation, User Stories, Acceptance Criteria | **Backend:** Node.js, Express.js, .NET Core, C#, Python |
+| **Modelleme & Süreç:** UML (Use Case, Sequence, Activity Diagrams), BPMN, Agile/Scrum | **Frontend:** JavaScript, Handlebars (HBS), HTML5, CSS3, Bootstrap, Tailwind |
+| **Veri & API Analizi:** SQL Data Validation, RESTful API Analysis, Postman, Integration Testing | **Database:** MSSQL (Stored Procedures, Triggers), PostgreSQL, MongoDB, Oracle |
+| **Metodolojiler & Araçlar:** MoSCoW, Jira, Trello, Slack, Pumble, SDLC Management | **DevOps & Diğer:** Nginx (Deployment), Git, GitHub |
+
+---
+
+### 📂 Öne Çıkan Projeler (Featured Projects)
+
+#### 🎓 [Seda Ülgen LMS-WEB](https://github.com/rabiaisildar) (Yapay Zekâ Destekli Dijital Platform)
+* **Technical BA Rolü:** Gereksinimleri analiz ederek detaylı FS dokümanlarına dönüştürdüm, MoSCoW ile backlog önceliklendirmesi yaptım ve yapay zeka modülleri için acceptance criteria tanımladım.
+* **Fullstack Developer Rolü:** MSSQL veritabanı mimarisini tasarlayıp Stored Procedure'ler ile optimize ettim. RESTful API entegrasyonlarını tamamlayarak projeyi Nginx ile canlı ortama (deployment) taşıdım.
+
+#### 🎯 [Yetenek Pusulası / Portalı](https://github.com/rabiaisildar) (Yapay Zekâ Destekli İK Platformu)
+* **Teknik Ekip Liderliği & Analiz:** Yapay zeka destekli CV-yetenek eşleştirme algoritması için teknik FS dokümanları ve UML iş akış şemaları kurguladım. SQL ile veri analizleri yaparak hatalı eşleşmeleri optimize ettim.
+* **Geliştirici Rolü:** Node.js mikroservis mimarisi ile ölçeklenebilir backend servisleri geliştirdim. API key yönetimi ve güvenli yapay zeka entegrasyon süreçlerini yönettim.
+
+####  [StokTemin](https://github.com/rabiaisildar) (B2B Tedarik Platformu)
+* **Technical BA Rolü:** Satıcı, sipariş ve ödeme süreçlerini modelleyerek API entegrasyonlarının veri akışını kurguladım. SQL veritabanı sorguları ile veri doğrulama ve tutarlılık analizleri gerçekleştirdim.
+
+#### 🔗 Diğer Projeler: [GezGöz](https://github.com/rabiaisildar) | [Mercass](https://github.com/rabiaisildar) | [Enteraguide](https://github.com/rabiaisildar)
+* API tabanlı modüler yapıların geliştirilmesi, Postman ile API test senaryolarının işletilmesi ve UML diyagramları ile sistem akışlarının modellenmesi.
+
+---
+
+### 🏆 Liderlik, Gönüllülük & Eğitmenlik (Leadership & Community)
+
+* **Liderlik:** Zorlu Enerji & Yenibirlider & TurkiSHE Liderlik Programı Katılımcısı. Stardust platformunda Türkiye genelinde seçilen 40 kişiden biri olarak **Etik ve Toplum Elçisi**.
+* **Eğitmenlik:** Habitat Derneği sertifikalı **Üretken Yapay Zeka Eğitmeni**. Yapay zeka, prompt engineering ve girişimcilik odaklı eğitimlerle 250+ katılımcıya mentörlük ve eğitim sağladım.
+* **Topluluk:** Van YYÜ Teknoloji Topluluğu **Kurucu Başkanı**. 
+* **Mentörlük:** Kodluyoruz bünyesinde Front-End Atölye Mentoru ve Van TUA Astro Hackathon'da AI Mentorluğu.
+
+---
+
+### 📬 İletişim & Sosyal Medya (Connect with Me)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rabia-i%c5%9fildar-416708245/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rabiaisildar00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://medium.com/@rabiaisildar65" target="blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
+---
+
+### 🚀 Teknolojiler ve Araçlar (Languages and Tools)
+
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabiaisildar&show_icons=true&locale=en&layout=compact&theme=radical" alt="rabiaisildar" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabiaisildar&theme=radical" alt="rabiaisildar" />
+</p>
